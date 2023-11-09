@@ -11,7 +11,7 @@ The output looks like [this](psth_image.png)!
 
 **EDA / Data Visualization**
 
-Here's an example of some code I wrote on a project (in collaboration with Devon Bode) to create a [box plot dsiplaying multiple different conditions grouped by hue](colorblind_boxplot.ipynb).
+Here's an example of some code I wrote on a project (in collaboration with Devon Bode) to create a [box plot displaying multiple different conditions grouped by hue](colorblind_boxplot.ipynb).
 The output looks like [this](colorblind_boxplot_image.ipynb)!
 
 
