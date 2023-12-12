@@ -5,7 +5,7 @@ Welcome! This is my coding portfolio
 
 **Single Unit Data**
 
-Here's an example of some code I wrote to [create a peri-stimulus time histogram from a 3D numpy array](PSTH_code.md).
+Here's an example of some code I wrote to [create a peri-stimulus time histogram from a 3D numpy array](PSTH_code1.md).
 The output looks like [this](psth_image.png)!
 
 
