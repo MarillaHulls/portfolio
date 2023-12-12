@@ -12,7 +12,7 @@
    "metadata": {},
    "source": [
     "```python\n",
-    "# Make a box plot from df_false with simon condition as the x-axis, RT on the y-axis, and flanker condition as the hue\n",
+    "# Make a box plot with simon condition as the x-axis, RT on the y-axis, and flanker condition as the hue\n",
     "sns.catplot(kind = 'box',\n",
     "            data = df_false,\n",
     "            x = 'simon',\n",
@@ -20,6 +20,7 @@
     "            hue = 'flankers',\n",
     "            palette = 'colorblind'\n",
     "            )\n",
+    "            \n",
     "# Show the plot\n",
     "plt.show()\n",
     "```"

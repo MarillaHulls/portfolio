@@ -16,7 +16,7 @@
    "metadata": {},
    "source": [
     "### #1\n",
-    "```python\n",
+    "``` python\n",
     "# Count the rows that have Musk but not Elon in the text column\n",
     "\n",
     "df[(df['text'].str.contains('Musk')) & (~df['text'].str.contains('Elon'))].shape[0]\n",
