@@ -17,4 +17,4 @@ The output looks like [this](colorblind_boxplot_image.png)!
 
 **Other**
 
-Just for fun, here's an example of some [Github Copliot prompts](Copilot_prompts.md) I engineered to produce the requested output without needing to make manual changes to the code. These Github Copliot prompts are for the purpose of working with and manipulating pandas dataframes.
+Just for fun, here's an example of some [Github Copliot prompts](copilot_prompts1.md) I engineered to produce the requested output without needing to make manual changes to the code. These Github Copliot prompts are for the purpose of working with and manipulating pandas dataframes.
