@@ -15,6 +15,12 @@ Here's an example of some code I wrote on a project (in collaboration with Devon
 The output looks like [this](colorblind_boxplot_image.png)!
 
 
+**Working with pandas DataFrames**
+
+Here's an example of some code I wrote to edit the values in a pandas DataFrame in order to [perform a chi-squared test of independence](chisquare.md) when the expected counts assumption was violated.
+The dataset used was downloaded from Kaggle [here](https://www.kaggle.com/datasets/shariful07/student-mental-health).
+
+
 **Other**
 
 Just for fun, here's an example of some [Github Copliot prompts](copilot_prompts1.md) I engineered to produce the requested output without needing to make manual changes to the code. These Github Copliot prompts are for the purpose of working with and manipulating pandas dataframes.
