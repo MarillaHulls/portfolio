@@ -18,7 +18,7 @@ The output looks like [this](colorblind_boxplot_image.png)!
 **Working with pandas DataFrames**
 
 Here's an example of some code I wrote to edit the values in a pandas DataFrame in order to [perform a chi-squared test of independence](chisquare.md) when the expected counts assumption was violated.
-The dataset used was downloaded from Kaggle [here](https://www.kaggle.com/datasets/shariful07/student-mental-health).
+The dataset used was downloaded from [Kaggle](https://www.kaggle.com/datasets/shariful07/student-mental-health).
 
 
 **Other**
